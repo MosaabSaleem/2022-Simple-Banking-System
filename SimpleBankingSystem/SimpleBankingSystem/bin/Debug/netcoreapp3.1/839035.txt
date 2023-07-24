@@ -1,0 +1,7 @@
+AccountNo|839035
+Balance|0
+First Name|m
+Last Name|m
+Address|m
+Phone|1234567890
+Email|mmosaab2002@hotmail.com

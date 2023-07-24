@@ -1,0 +1,24 @@
+AccountNo|100001
+Balance|10000
+First Name|Sam
+Last Name|Verge
+Address|UTS Building 11, Sydney
+Phone|123456789
+Email|samv@uts.edu.au
+10.12.2021|Deposit|200|800
+12.12.2021|Deposit|400|1200
+15.12.2021|Withdraw|200|1000
+6.9.2022|Withdraw|1|999
+12.9.2022|Deposit|70|1069
+12.9.2022|Withdraw|69|1000
+12.9.2022|Withdraw|1|0
+12.9.2022|Withdraw|1|999
+12.9.2022|Withdraw|1|998
+17.9.2022|Withdraw|5|993
+17.9.2022|Deposit|1000|0
+17.9.2022|Deposit|2000|0
+17.9.2022|Deposit|1000|1993
+17.9.2022|Withdraw|993|1000
+18.9.2022|Deposit|9000|10000
+18.9.2022|Deposit|1|10001
+18.9.2022|Withdraw|1|10000

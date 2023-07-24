@@ -1,0 +1,12 @@
+AccountNo|835344
+Balance|69
+First Name|mosaab
+Last Name|salee
+Address|h
+Phone|1234567890
+Email|mmosaab2002@hotmail.com
+18.9.2022|Deposit|1|1
+18.9.2022|Deposit|1|2
+18.9.2022|Deposit|67|69
+18.9.2022|Deposit|500|569
+18.9.2022|Withdraw|500|69

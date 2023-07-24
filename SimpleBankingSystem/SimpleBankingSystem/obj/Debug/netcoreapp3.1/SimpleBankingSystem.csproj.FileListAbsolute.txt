@@ -1,0 +1,14 @@
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\bin\Debug\netcoreapp3.1\SimpleBankingSystem.exe
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\bin\Debug\netcoreapp3.1\SimpleBankingSystem.deps.json
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\bin\Debug\netcoreapp3.1\SimpleBankingSystem.runtimeconfig.json
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\bin\Debug\netcoreapp3.1\SimpleBankingSystem.runtimeconfig.dev.json
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\bin\Debug\netcoreapp3.1\SimpleBankingSystem.dll
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\bin\Debug\netcoreapp3.1\SimpleBankingSystem.pdb
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\obj\Debug\netcoreapp3.1\SimpleBankingSystem.csproj.AssemblyReference.cache
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\obj\Debug\netcoreapp3.1\SimpleBankingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\obj\Debug\netcoreapp3.1\SimpleBankingSystem.AssemblyInfoInputs.cache
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\obj\Debug\netcoreapp3.1\SimpleBankingSystem.AssemblyInfo.cs
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\obj\Debug\netcoreapp3.1\SimpleBankingSystem.csproj.CoreCompileInputs.cache
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\obj\Debug\netcoreapp3.1\SimpleBankingSystem.dll
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\obj\Debug\netcoreapp3.1\SimpleBankingSystem.pdb
+C:\Users\mmosa\source\repos\SimpleBankingSystem\SimpleBankingSystem\obj\Debug\netcoreapp3.1\SimpleBankingSystem.genruntimeconfig.cache

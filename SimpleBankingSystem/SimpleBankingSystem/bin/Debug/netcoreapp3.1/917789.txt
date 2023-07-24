@@ -1,0 +1,7 @@
+AccountNo|917789
+Balance|0
+First Name|mosaab
+Last Name|mosaab
+Address|uts
+Phone|1234567890
+Email|mmosaab2002@hotmail.com

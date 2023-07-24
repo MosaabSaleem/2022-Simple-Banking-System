@@ -1,0 +1,15 @@
+AccountNo|100002
+Balance|19435
+First Name|Mosaab
+Last Name|Saleem
+Address|420 Australia, Earth
+Phone|987654321
+Email|mmosaab2002@hotmail.com
+10.12.2021|Deposit|200|800
+12.12.2021|Deposit|400|1200
+15.12.2021|Withdraw|200|1000
+6.9.2022|Withdraw|1|6968
+12.9.2022|Deposit|123|7091
+12.9.2022|Withdraw|1|7090
+12.9.2022|Withdraw|123|0
+18.9.2022|Deposit|12345|19435
